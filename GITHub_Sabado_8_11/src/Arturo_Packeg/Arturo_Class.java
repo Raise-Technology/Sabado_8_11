@@ -11,4 +11,13 @@ package Arturo_Packeg;
  */
 public class Arturo_Class {
     
+   vPrueba V= new vPrueba ();
+   
+   public Arturo_Class () {
+
+  V.setVisible(true);
+  
+}
+   
+    
 }
