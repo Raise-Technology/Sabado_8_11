@@ -1,14 +1,16 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+* Descripción : Esta clase llama a la ventana Isai
+*/
 package Isaì_Packeg;
 
 /**
- *
- * @author Cesar Programacion
+ * Author : Víctor Isaí Santana Machuca
  */
 public class Isaì_Class {
     
+    public void Isai_Class(){
+        
+        VentanaIsai ventana1 = new VentanaIsai();
+        ventana1.setVisible(true);
+    }
 }
