@@ -10,5 +10,7 @@ package Adam_Packeg;
  * @author Cesar Programacion
  */
 public class Adam_Class {
+    Muajajaj m= new Muajajaj();
     
+    m.setVisible(true);
 }
