@@ -16,7 +16,7 @@ public class Arturo_Class {
    public Arturo_Class () {
 
   V.setVisible(true);
-  
+  //Comentario para probar credenciales de arturo
 }
    
     
